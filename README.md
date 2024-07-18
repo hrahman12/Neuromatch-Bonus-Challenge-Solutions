@@ -15,6 +15,5 @@ Model Fitting (W1D2)
 Autoencoders (Bonus)
 
 
--Tutorial 1: Intro to Autoencoders: Failure mode with ReLU units in 2D
 
 Feel free to add more!
