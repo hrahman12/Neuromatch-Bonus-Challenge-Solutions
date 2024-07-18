@@ -1,6 +1,6 @@
 # Neuromatch-Bonus-Challenge-Solutions
 
-This is Bonus content that is covered, this includes mathematical derivation as well as code:-
+This is Bonus content from the course, here I include mathematical derivation as well as code. I also include my own incorporations of Quantum Computing into these problems:- 
 
 
 Model Fitting (W1D2)
