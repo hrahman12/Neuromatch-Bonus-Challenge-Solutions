@@ -12,8 +12,17 @@ Model Fitting (W1D2)
 -Tutorial 6: Model Selection Cross Validation: Bonus Section 1: Akaike’s Information Criterion (AIC)
 
 
-Autoencoders (Bonus)
+-Autoencoders Tutorial 1
 
+Biological Neuron Models (W2D3)
+
+
+-Tutorial 3: Synaptic transmission - Models of static and dynamic synapses
+  
+
+Reinforcement Learning (W3D4)
+
+- Tutorial 3: Learning to Act: Q-Learning
 
 
 Feel free to add more!
