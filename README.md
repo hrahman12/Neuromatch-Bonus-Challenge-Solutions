@@ -22,7 +22,7 @@ Biological Neuron Models (W2D3)
 
 Reinforcement Learning (W3D4)
 
-- Tutorial 3: Learning to Act: Q-Learning
+Tutorial 3: Learning to Act: Q-Learning
 
 
 Feel free to add more!
