@@ -2,6 +2,9 @@
 
 This is Bonus content from the course, here I include mathematical derivation as well as code. I also include my own incorporations of Quantum Computing into these problems:- 
 
+![neuromatch bonus](https://github.com/user-attachments/assets/99a1d91e-604a-409d-ac70-ac87b900e5d2)
+
+
 
 Model Fitting (W1D2)
 
